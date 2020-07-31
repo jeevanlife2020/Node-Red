@@ -1,6 +1,5 @@
 # Node-Red-Flow
 
-![alt text](https://github.com/jeevanlife2020/Node-Red/blob/master/node-red-flow-screenshot.PNG?raw=true)
 
 ## Working flow:
 
@@ -19,3 +18,5 @@
 * In the **Flow Rate checking to send mail** function, its checking whether flow rate is constant or not.
 
 * If Flow rate is constant, a **Switch** node is used to send the mail to the user for notification.
+
+![alt text](https://github.com/jeevanlife2020/Node-Red/blob/master/node-red-flow-screenshot.PNG?raw=true)
