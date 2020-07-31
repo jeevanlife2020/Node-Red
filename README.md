@@ -1,6 +1,7 @@
 # Node-Red-Flow
 
 
+
 ## Working flow:
 
 *  **Inject** node is automatically triggered in a interval of specific time.
